@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif; /*since all text on the page is Verdana font-family*/
+}
+
+#headline {
+  /*font-family: Verdana;*/
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.download a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.subHeadline {
+  /*font-family: Verdana;*/
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#remember {
+  /*font-family: Verdana;*/
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
